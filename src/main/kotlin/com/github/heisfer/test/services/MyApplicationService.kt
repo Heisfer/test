@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.heisfer.test.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.heisfer.test.MyBundle
 
 class MyApplicationService {
 
